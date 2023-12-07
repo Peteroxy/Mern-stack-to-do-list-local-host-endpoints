@@ -59,3 +59,24 @@ It implements all the basic functionalities of a todo list, i.e, CRUD Operations
 
 -Now Try it Out!
 
+
+**TOOLS USED**
+
+-Node.js
+
+-Express.js
+
+-React.js
+
+-Css
+
+-Html
+
+-Javascript
+
+-Mongodb
+
+-Git
+
+-Vscode.
+
