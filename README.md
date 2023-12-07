@@ -9,7 +9,7 @@ You may visit this link to take a look at the deployed project https://task-mana
 
 **OVERVIEW**
 
-The Task Manager API is built on Node.js and uses MongoDB as its underlying database. It follows RESTful principles, offering a straightforward interface for interacting with tasks. Each task in the system contains essential information, including a title, description, status (pending or completed), and creation date.
+The Task Manager API is built on Node.js and uses MongoDB as its underlying database. It follows RESTful principles, offering a straightforward interface for interacting with tasks. Each task in the system contains essential information, including a title, description, status (pending or completed), and creation date. The front end was built using React.js
 
 **USER STORIES**
 
