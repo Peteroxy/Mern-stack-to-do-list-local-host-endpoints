@@ -27,4 +27,35 @@ It implements all the basic functionalities of a todo list, i.e, CRUD Operations
 
 **GETTING STARTED**
 
+-To ease things, get started by clicking the link to this repository https://github.com/Peteroxy/Mern-stack-to-do-list-local-host-endpoints.git
+
+-click the green button that shows **CODE**. From the dropdown click the download as zip options. Wait till the down load is completed.
+
+![download](https://github.com/Peteroxy/Mern-stack-to-do-list-local-host-endpoints/assets/99334331/3b6ba5ec-68e3-4118-898e-48b1c2ee3b75)
+
+-Open the Location where the folder is and extract the code.
+
+-open the extracted code with your preferable code editor(vscode in my case)
+
+-split your terminal into two.
+
+-in the first one you should type 'cd server'.
+
+-After a succeful operation, your directory should end with '/server'.
+
+-Then type npm install. This sshould install all dependencies and packages needed.
+
+-once that operation is succesfull, type npm start. If succesfull, you should have two messages 1. Server connected on port 5500, 2. Database connected.
+
+-I have left my enviroment variables for this project so as to eae things.
+
+-On the other side of the terminal, type 'cd client'.
+
+-After a succeful operation, your directory should end with '/client'.
+
+-Then type npm install. This sshould install all dependencies and packages needed.
+
+-once that operation is succesfull, type npm start. If succesfull, your project should get started on 'https://localhost:300'.
+
+-Now Try it Out!
 
